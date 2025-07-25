@@ -1,1 +1,1 @@
-script.gs.txt
+script.gs
